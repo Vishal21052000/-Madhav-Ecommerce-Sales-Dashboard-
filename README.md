@@ -36,8 +36,9 @@ It helps businesses track **sales, profits, and customer preferences** across st
 ---
 
 ## 📷 Dashboard Preview
-*(Add screenshot here after uploading to `/Screenshots` folder)*  
 `![Dashboard Screenshot](Screenshots/dashboard.png)`
+Note: Click on the screenshot to view it in full size.
+To explore the interactive dashboard, download the .pbix file from this repository.
 
 ---
 
